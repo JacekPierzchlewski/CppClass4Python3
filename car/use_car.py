@@ -18,23 +18,23 @@ def main():
     carSilver = car("Silver", 12)
 
     # Fuel up the cars
-    carRed.fuel_up(40);
-    carSilver.fuel_up(30);
+    carRed.fuel_up(40)
+    carSilver.fuel_up(30)
 
     # Drive the cars
-    carRed.drive(500);
-    carSilver.drive(200);
+    carRed.drive(500)
+    carSilver.drive(200)
 
     # Fuel up only the silver car
-    carSilver.fuel_up(40);
+    carSilver.fuel_up(40)
 
     # Drive the cars again
-    carRed.drive(400);
-    carSilver.drive(100);
+    carRed.drive(400)
+    carSilver.drive(100)
 
     # Print the mileage of the cars
-    carRed.print_mileage();
-    carSilver.print_mileage();
+    carRed.print_mileage()
+    carSilver.print_mileage()
 
 
 if __name__ == "__main__":

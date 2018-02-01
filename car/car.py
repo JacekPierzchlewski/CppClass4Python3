@@ -1,7 +1,7 @@
 #
 #  car.py:
 #
-#  DEFINITION OF PYTHON WRAPPING CLASS FOR C++ `Car` CLASS.
+#  TOP INTERFACE: DEFINITION OF PYTHON WRAPPING CLASS FOR C++ `Car` CLASS.
 #
 #  (c) 2017, Jacek Pierzchlewski, jacek@pierzchlewski.com
 #

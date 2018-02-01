@@ -1,7 +1,7 @@
 /*
  *  car2py.cpp:
  *
- *  PYTHON MODULE INTERFACE TO `CAR`.
+ *  BOTTOM INTERFACE TO `CAR`.
  *
  *  (c) 2017, Jacek Pierzchlewski, jacek@pierzchlewski.com
  *
